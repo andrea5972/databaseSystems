@@ -1,0 +1,10 @@
+use roommate;
+select * from has_room;
+select * from the_user;
+select * from place_type;
+select * from place;
+select * from needs_room;
+select * from city;
+select * from user_attributes;
+select * from user_authentication;
+select * from place_attributes;
